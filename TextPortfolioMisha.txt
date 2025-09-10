@@ -1,7 +1,7 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://github.com/
+https://www.linkedin.com/in/misha-n-devegowda-497110287/
+https://github.com/m1sha1107
 
 home__description
 High level experience in web design and development knowledge, producing quality work.
